@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Grails:grails-experiment" type="GrailsRunConfigurationType" factoryName="Grails">
+    <module name="grails-experiment" />
+    <setting name="vmparams" value="" />
+    <setting name="cmdLine" value="run-app" />
+    <setting name="depsClasspath" value="true" />
+    <setting name="passParentEnv" value="true" />
+    <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <setting name="launchBrowser" value="true" />
+    <RunnerSettings RunnerId="GrailsMavenDebuggerRunner">
+      <option name="DEBUG_PORT" value="" />
+      <option name="TRANSPORT" value="0" />
+      <option name="LOCAL" value="true" />
+    </RunnerSettings>
+    <ConfigurationWrapper RunnerId="GrailsMavenDebuggerRunner" />
+    <method />
+  </configuration>
+</component>
